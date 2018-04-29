@@ -4,7 +4,7 @@ List of items:
 - apple
 - banana
 - strawberry
--[] pineapple
--[] kiwi
+[] pineapple
+[] kiwi
 
 Not sure if the list above is pertinent
